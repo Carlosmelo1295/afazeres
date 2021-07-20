@@ -1,5 +1,4 @@
 import './style.css'
-import campoEntrada from '../camposPreencher'
 
 function btn() {
     return `
@@ -7,6 +6,7 @@ function btn() {
      
     `  
 }
+
 
 export default btn;
 

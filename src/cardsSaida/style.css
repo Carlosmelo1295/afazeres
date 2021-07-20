@@ -1,0 +1,14 @@
+.box_afazeres{
+   padding: 1rem;
+   margin: 0 auto;
+   margin-top: 60px;
+   background-color: var(--primary-bg);
+   color: var(--sec-text);
+   border-radius: var(--border);
+   width: max-content;
+}
+.mainContent{
+   height: 70vh;
+   overflow-y: scroll;
+   width: 100%;
+}
