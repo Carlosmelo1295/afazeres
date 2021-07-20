@@ -1,0 +1,12 @@
+.container_input{
+    margin-top: 1rem;
+   
+}
+.entrada{
+    width: 300px;
+}
+.container_input input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: var(--border);
+}
