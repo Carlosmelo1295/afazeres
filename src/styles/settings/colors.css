@@ -1,8 +1,9 @@
-:root{
+:root {
     --primary-bg: #fad390;
-    --sec-bg:#778beb;
+    --sec-bg: #778beb;
     --primary-text: #ffffff;
-    --sec-text:#303952;
+    --sec-text: #303952;
 
     --border: 8px;
+    --rem: 1rem;
 }

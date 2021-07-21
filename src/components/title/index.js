@@ -1,7 +1,7 @@
 import './style.css'
 
 function page_title() {
-    return `
+  return `
      <h1 class="title"> 
        Afazeres do tklao 
      </h1>

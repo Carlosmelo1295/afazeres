@@ -1,11 +1,12 @@
-.container_input{
-    margin-top: 1rem;
-   
+.container_input {
+    margin-top: var(--rem);
 }
-.entrada{
+
+.entrada {
     width: 300px;
 }
-.container_input input{
+
+input {
     margin: 10px;
     padding: 10px;
     border-radius: var(--border);

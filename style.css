@@ -1,8 +1,7 @@
 #app {
     background-color: var(--sec-bg);
-    padding: 1rem;
-    font-family: Avenir, Helvetica, Arial, sans-serif;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    
 }
