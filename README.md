@@ -2,7 +2,7 @@
 
 <p> Clone este repositório </p>
 <ul>
-  <li>git clone <https://github.com/Tklao/afazeres.git></li>
+  <li>git clone url(<https://github.com/Tklao/afazeres.git>)</li>
     </ul>
 
 <p> Acesse a pasta do projeto no terminal </p>
