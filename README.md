@@ -1,17 +1,25 @@
-# afazeres
-<hr>
-# Clone este repositório
-$ git clone <https://github.com/Tklao/afazeres.git>
+<h1> afazeres </h1>
 
-# Acesse a pasta do projeto no terminal
-$ cd afazeres
+<p> Clone este repositório </p>
+<ul>
+  <li>git clone <https://github.com/Tklao/afazeres.git></li>
+    </ul>
 
-# Instale as dependências
-$ npm install
-$ npm init vite@latest
+<p> Acesse a pasta do projeto no terminal </p>
+ <ul>
+  <li>cd afazeres </li>
+  </ul>
+
+<p> Instale as dependências</p>
+<ul>
+  <li>npm install</li>
+<li>npm init vite@latest</li>
+  </ul>
 
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+<p>Execute a aplicação em modo de desenvolvimento</p>
+<ul>
+  <li>npm run dev</li>
+  </ul>
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000/>
+<strong> O servidor inciará na porta:3000 - acesse <http://localhost:3000/> </strong>
