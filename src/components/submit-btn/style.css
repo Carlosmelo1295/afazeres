@@ -2,13 +2,24 @@
     border-radius: var(--border);
     padding: 10px;
     margin-top: var(--rem);
+    display: flex;
+    margin: 0 auto;
+    color: var(--txt-fundo-claro);
+    box-shadow: var(--shadow);
+
 }
 
 .btn:hover {
-    transition: 200ms linear;
-    transform: rotate(3deg);
+    animation: animeBtn 500ms alternate infinite;
 }
 
-.btn:active {
-    transform: rotate(-3deg);
+
+@keyframes animeBtn {
+    to {
+        transform: rotate(3deg);
+    }
+
+    from {
+        transform: rotate(-3deg);
+    }
 }

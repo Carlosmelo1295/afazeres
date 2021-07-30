@@ -1,0 +1,22 @@
+.mainContent {
+   width: 100%;
+   margin-top: 20px;
+   display: flex;
+   flex-direction: row;
+   overflow-x: scroll;
+}
+
+.box_afazeres {
+   padding: var(--rem);
+   background-color: var(--fundo-secundario);
+   color: var(--txt-fundo-claro);
+   border-radius: var(--border);
+   height: min-content;
+   margin: var(--rem);
+   text-indent: 10px;
+   position: relative;
+   word-wrap: break-word;
+   box-shadow: var(--shadow);
+   text-align: center;
+
+}

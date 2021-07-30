@@ -1,13 +1,26 @@
 .container_input {
-    margin-top: var(--rem);
+    width: 50%;
+    margin: var(--rem) auto;
+
 }
 
-.entrada {
-    width: 300px;
-}
-
-input {
-    margin: 10px;
-    padding: 10px;
+.container_input input {
+    width: 100%;
+    margin-bottom: 2em;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: var(--border);
+    display: block;
+    text-indent: 10px;
+    background-color: var(--fundo-secundario);
+    color: var(--txt-fundo-claro);
+    box-shadow: var(--shadow);
+
+}
+
+
+label {
+    color: var(--sec-text);
+    text-transform: uppercase;
+
 }

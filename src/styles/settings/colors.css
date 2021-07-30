@@ -1,9 +1,12 @@
 :root {
-    --primary-bg: #fad390;
-    --sec-bg: #778beb;
-    --primary-text: #ffffff;
-    --sec-text: #303952;
+    --fundo-primario: #273036;
+    --fundo-secundario: whitesmoke;
+
+    --txt-fundo-claro: #2f3542;
+    --txt-fundo-escuro: #ffffff;
 
     --border: 8px;
     --rem: 1rem;
+
+    --shadow: 0 0 3px black;
 }

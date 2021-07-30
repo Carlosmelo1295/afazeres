@@ -1,10 +1,15 @@
-import './style.css'
+import "./style.css";
 
-function campoEntrada(text) {
-    return `
+function campoEntrada() {
+  return /*html*/ `
     <div class="container_input">
-      <input value="Preencha sua tarefa..." placeholder=${text} type="text" class="entrada">
+    <label> Tarefa 
+      <input  type="text" maxlength="50" class="entrada">
+      </label>
+
+      <label> Horário da tarefa 
       <input type="time" class="input_date">
+      </label>
    </div>
     `;
 }

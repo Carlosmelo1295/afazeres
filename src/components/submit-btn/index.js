@@ -1,8 +1,8 @@
 import "./style.css";
 
-function btn() {
-    return `
-     <button class="btn"> Adicionar tarefa </button>
+function btn(text) {
+  return `
+     <button class="btn"> ${text} </button>
      
     `;
 }
